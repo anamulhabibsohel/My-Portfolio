@@ -11,7 +11,7 @@ const Hero = () => {
             I am, Md Anamul Habib, a student of Software Engineering Technician Program at Centennial College.
         </h1>
         <p className='mt-4 text-lg text-gray-500'>
-        "I want to develop my skills to be a web developer and quick learner in this field.<br></br>
+        "I want to develop myself to be a web developer and quick learner in this field.<br></br>
          I am dedicated to keeping up with the latest industry trends and continually learning new technologies to develop cutting edge, responsive web applications."
         </p>
         <div className='mt-8 space-x-4'>
